@@ -8,6 +8,16 @@ Thanks for the above works.
 
 Here are overall 4 directories containing works of different stages. If you want to run the code, I prepared a demo program in RandLA-Net directory.
 
+RandLA-Net is for all 19 classes training and evaluation with LiDAR model and LiDAR+Camera model
+
+RandLA-Net_closeset is for the first 15 classes training and evaluation with LiDAR+Camera model
+and also evaluate with MSP(max softmax probablity)
+
+RandLA-Net_openset treats the first 15 classes as known in training and evaluation with LiDAR+Camera model
+and also evaluate with AUPR, AUROC.
+
+RandLA-Net-incre is incremental model, from 15 known classes to all 19 classes training and evaluation with LiDAR model and LiDAR+Camera model.
+
 To run demo, go with following steps:
 
 1. Do as ./RandLA-Net/README.md required, setting the Python environment, Pytorch 1.8 is used in this work.
