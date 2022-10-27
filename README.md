@@ -1,10 +1,12 @@
-Acknowledgement:
+## Acknowledgement:
 
 This work contains 4 directories, all of they are modified based on code from Pytorch implementation of RandLA-Net: https://github.com/qiqihaer/RandLA-Net-pytorch
 
 The original work released by the authors is implemented with tensorflow: https://github.com/QingyongHu/RandLA-Net
 
 Thanks for the above works.
+
+## Code Detail
 
 Here are overall 4 directories containing works of different stages. If you want to run the code, I prepared a demo program in RandLA-Net directory.
 
