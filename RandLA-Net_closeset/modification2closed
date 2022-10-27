@@ -1,0 +1,4 @@
+semantic kitt dataset改ignore labels
+helpertool改num_classes
+RandLA self.fc3 to self.fc_cls
+weight in helper tool 311

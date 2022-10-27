@@ -1,0 +1,1 @@
+python3 evaluate_SemanticKITTI.py --dataset /root/autodl-tmp/sequences_0.06/ --predictions runs/supervised/predictions/ --sequences 8

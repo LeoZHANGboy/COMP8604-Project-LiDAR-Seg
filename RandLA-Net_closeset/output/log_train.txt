@@ -1,0 +1,854 @@
+-> loaded checkpoint output/checkpoint.tar (epoch: 61)
+**** EPOCH 061 ****
+2022-08-09 23:54:04.820770
+-> loaded checkpoint output/checkpoint.tar (epoch: 61)
+-> loaded checkpoint output/checkpoint.tar (epoch: 61)
+-> loaded checkpoint output/checkpoint.tar (epoch: 61)
+-> loaded checkpoint output/checkpoint.tar (epoch: 61)
+-> loaded checkpoint output/checkpoint.tar (epoch: 61)
+-> loaded checkpoint output/checkpoint.tar (epoch: 61)
+-> loaded checkpoint output/checkpoint.tar (epoch: 61)
+-> loaded checkpoint output/checkpoint.tar (epoch: 61)
+-> loaded checkpoint output/checkpoint.tar (epoch: 61)
+-> loaded checkpoint output/checkpoint.tar (epoch: 61)
+-> loaded checkpoint output/checkpoint.tar (epoch: 61)
+-> loaded checkpoint output/checkpoint.tar (epoch: 61)
+-> loaded checkpoint output/checkpoint.tar (epoch: 61)
+-> loaded checkpoint output/checkpoint.tar (epoch: 61)
+-> loaded checkpoint output/checkpoint.tar (epoch: 61)
+-> loaded checkpoint output/checkpoint.tar (epoch: 61)
+-> loaded checkpoint output/checkpoint.tar (epoch: 61)
+-> loaded checkpoint output/checkpoint.tar (epoch: 61)
+-> loaded checkpoint output/checkpoint.tar (epoch: 61)
+-> loaded checkpoint output/checkpoint.tar (epoch: 61)
+-> loaded checkpoint output/checkpoint.tar (epoch: 61)
+**** EPOCH 061 ****
+2022-08-14 15:38:15.332289
+**** EPOCH 000 ****
+2022-08-14 15:41:35.506523
+**** EPOCH 000 ****
+2022-08-14 15:42:02.666124
+**** EPOCH 000 ****
+2022-08-14 15:43:08.130673
+**** EPOCH 000 ****
+2022-08-14 15:48:36.720394
+**** EPOCH 000 ****
+2022-08-14 16:14:07.990332
+**** EPOCH 000 ****
+2022-08-14 16:25:11.939310
+**** EPOCH 000 ****
+2022-08-14 16:27:07.452593
+**** EPOCH 000 ****
+2022-08-14 16:27:56.280164
+**** EPOCH 000 ****
+2022-08-14 16:28:39.862062
+ ---- batch: 010 ----
+mean acc: 0.067345
+mean loss: 24.380416
+**** EPOCH 000 ****
+2022-08-14 16:35:37.011772
+**** EPOCH 000 ****
+2022-08-14 16:36:08.376094
+**** EPOCH 000 ****
+2022-08-14 16:37:31.106736
+ ---- batch: 010 ----
+mean acc: 0.077440
+mean loss: 22.240555
+ ---- batch: 020 ----
+mean acc: 0.174450
+mean loss: 20.902801
+**** EPOCH 000 ****
+2022-08-14 16:43:07.898009
+ ---- batch: 010 ----
+mean acc: 0.106193
+mean loss: 24.963494
+ ---- batch: 020 ----
+mean acc: 0.138282
+mean loss: 20.144078
+ ---- batch: 030 ----
+mean acc: 0.189165
+mean loss: 17.909253
+ ---- batch: 040 ----
+mean acc: 0.236183
+mean loss: 18.107059
+ ---- batch: 050 ----
+mean acc: 0.264315
+mean loss: 18.096620
+ ---- batch: 060 ----
+mean acc: 0.305772
+mean loss: 15.855168
+ ---- batch: 070 ----
+mean acc: 0.318592
+mean loss: 16.503205
+ ---- batch: 080 ----
+mean acc: 0.332158
+mean loss: 17.351914
+ ---- batch: 090 ----
+mean acc: 0.338203
+mean loss: 16.798199
+ ---- batch: 100 ----
+mean acc: 0.313792
+mean loss: 16.369575
+ ---- batch: 110 ----
+mean acc: 0.352793
+mean loss: 14.759205
+ ---- batch: 120 ----
+mean acc: 0.346626
+mean loss: 14.423149
+ ---- batch: 130 ----
+mean acc: 0.379349
+mean loss: 13.499673
+ ---- batch: 140 ----
+mean acc: 0.405721
+mean loss: 14.085224
+ ---- batch: 150 ----
+mean acc: 0.354878
+mean loss: 13.570047
+ ---- batch: 160 ----
+mean acc: 0.408757
+mean loss: 15.237100
+ ---- batch: 170 ----
+mean acc: 0.393302
+mean loss: 12.599596
+ ---- batch: 180 ----
+mean acc: 0.386188
+mean loss: 15.529595
+ ---- batch: 190 ----
+mean acc: 0.360260
+mean loss: 14.754112
+ ---- batch: 200 ----
+mean acc: 0.361249
+mean loss: 14.363264
+ ---- batch: 210 ----
+mean acc: 0.380092
+mean loss: 14.319434
+ ---- batch: 220 ----
+mean acc: 0.401229
+mean loss: 13.599629
+ ---- batch: 230 ----
+mean acc: 0.384619
+mean loss: 15.805607
+ ---- batch: 240 ----
+mean acc: 0.381562
+mean loss: 14.859262
+ ---- batch: 250 ----
+mean acc: 0.371453
+mean loss: 14.105831
+-> loaded checkpoint ./output/checkpoint.tar (epoch: 61)
+-> loaded checkpoint ./output/checkpoint.tar (epoch: 61)
+-> loaded checkpoint ./output/checkpoint.tar (epoch: 61)
+-> loaded checkpoint ./output/checkpoint.tar (epoch: 61)
+-> loaded checkpoint ./output/checkpoint.tar (epoch: 61)
+ ---- batch: 010 ----
+-> loaded checkpoint ./output/checkpoint.tar (epoch: 61)
+-> loaded checkpoint ./output/checkpoint.tar (epoch: 61)
+-> loaded checkpoint ./output/checkpoint.tar (epoch: 61)
+-> loaded checkpoint ./output/checkpoint.tar (epoch: 61)
+-> loaded checkpoint ./output/checkpoint.tar (epoch: 61)
+ ---- batch: 010 ----
+ ---- batch: 020 ----
+ ---- batch: 030 ----
+ ---- batch: 040 ----
+ ---- batch: 050 ----
+ ---- batch: 060 ----
+ ---- batch: 070 ----
+ ---- batch: 080 ----
+ ---- batch: 090 ----
+ ---- batch: 100 ----
+ ---- batch: 110 ----
+ ---- batch: 120 ----
+ ---- batch: 130 ----
+ ---- batch: 140 ----
+ ---- batch: 150 ----
+ ---- batch: 160 ----
+ ---- batch: 170 ----
+ ---- batch: 180 ----
+ ---- batch: 190 ----
+ ---- batch: 200 ----
+ ---- batch: 210 ----
+ ---- batch: 220 ----
+ ---- batch: 230 ----
+ ---- batch: 240 ----
+ ---- batch: 250 ----
+ ---- batch: 260 ----
+ ---- batch: 270 ----
+ ---- batch: 280 ----
+ ---- batch: 290 ----
+ ---- batch: 300 ----
+ ---- batch: 310 ----
+ ---- batch: 320 ----
+ ---- batch: 330 ----
+ ---- batch: 340 ----
+ ---- batch: 350 ----
+ ---- batch: 360 ----
+ ---- batch: 370 ----
+ ---- batch: 380 ----
+ ---- batch: 390 ----
+ ---- batch: 400 ----
+ ---- batch: 410 ----
+ ---- batch: 420 ----
+ ---- batch: 430 ----
+ ---- batch: 440 ----
+ ---- batch: 450 ----
+ ---- batch: 460 ----
+ ---- batch: 470 ----
+ ---- batch: 480 ----
+ ---- batch: 490 ----
+ ---- batch: 500 ----
+eval mean acc: 0.092724
+eval mean loss: 173.781978
+mean IoU:1.5
+IoU: 4.24  0.07  0.04  0.27  0.59  0.11  0.13  0.00 17.61  0.34  0.51  0.09  0.37  0.54  2.20  0.36  0.00  0.40  0.30 
+-> loaded checkpoint ./output/checkpoint.tar (epoch: 61)
+-> loaded checkpoint ./output/checkpoint.tar (epoch: 61)
+-> loaded checkpoint ./output/checkpoint.tar (epoch: 61)
+-> loaded checkpoint ./output/checkpoint.tar (epoch: 61)
+-> loaded checkpoint ./output/checkpoint.tar (epoch: 61)
+ ---- batch: 010 ----
+ ---- batch: 020 ----
+ ---- batch: 030 ----
+ ---- batch: 040 ----
+ ---- batch: 050 ----
+ ---- batch: 060 ----
+ ---- batch: 070 ----
+ ---- batch: 080 ----
+ ---- batch: 090 ----
+ ---- batch: 100 ----
+ ---- batch: 110 ----
+ ---- batch: 120 ----
+ ---- batch: 130 ----
+ ---- batch: 140 ----
+ ---- batch: 150 ----
+ ---- batch: 160 ----
+ ---- batch: 170 ----
+ ---- batch: 180 ----
+ ---- batch: 190 ----
+ ---- batch: 200 ----
+ ---- batch: 210 ----
+ ---- batch: 220 ----
+ ---- batch: 230 ----
+ ---- batch: 240 ----
+ ---- batch: 250 ----
+ ---- batch: 260 ----
+ ---- batch: 270 ----
+ ---- batch: 280 ----
+ ---- batch: 290 ----
+ ---- batch: 300 ----
+ ---- batch: 310 ----
+ ---- batch: 320 ----
+ ---- batch: 330 ----
+ ---- batch: 340 ----
+ ---- batch: 350 ----
+ ---- batch: 360 ----
+ ---- batch: 370 ----
+ ---- batch: 380 ----
+ ---- batch: 390 ----
+ ---- batch: 400 ----
+ ---- batch: 410 ----
+ ---- batch: 420 ----
+ ---- batch: 430 ----
+ ---- batch: 440 ----
+ ---- batch: 450 ----
+ ---- batch: 460 ----
+ ---- batch: 470 ----
+ ---- batch: 480 ----
+ ---- batch: 490 ----
+ ---- batch: 500 ----
+eval mean acc: 0.092302
+eval mean loss: 172.803743
+mean IoU:1.5
+IoU: 4.18  0.06  0.03  0.25  0.34  0.10  0.09  0.00 17.63  0.55  0.49  0.08  0.39  0.64  2.09  0.38  0.00  0.41  0.24 
+-> loaded checkpoint D:/project/RandLA-Net2/pretrain_model/checkpoint.tar (epoch: 88)
+ ---- batch: 010 ----
+-> loaded checkpoint D:/project/RandLA-Net2/pretrain_model/checkpoint.tar (epoch: 88)
+-> loaded checkpoint D:/project/RandLA-Net2/pretrain_model/checkpoint.tar (epoch: 88)
+-> loaded checkpoint D:/project/RandLA-Net2/pretrain_model/checkpoint.tar (epoch: 88)
+-> loaded checkpoint D:/project/RandLA-Net2/pretrain_model/checkpoint.tar (epoch: 88)
+-> loaded checkpoint D:/project/RandLA-Net2/pretrain_model/checkpoint.tar (epoch: 88)
+-> loaded checkpoint D:/project/RandLA-Net2/pretrain_model/checkpoint.tar (epoch: 88)
+-> loaded checkpoint D:/project/RandLA-Net2/pretrain_model/checkpoint.tar (epoch: 88)
+-> loaded checkpoint D:/project/RandLA-Net2/pretrain_model/checkpoint.tar (epoch: 88)
+-> loaded checkpoint D:/project/RandLA-Net2/pretrain_model/checkpoint.tar (epoch: 88)
+ ---- batch: 010 ----
+ ---- batch: 020 ----
+ ---- batch: 030 ----
+ ---- batch: 040 ----
+ ---- batch: 050 ----
+ ---- batch: 060 ----
+ ---- batch: 070 ----
+ ---- batch: 080 ----
+ ---- batch: 090 ----
+ ---- batch: 100 ----
+ ---- batch: 110 ----
+ ---- batch: 120 ----
+ ---- batch: 130 ----
+ ---- batch: 140 ----
+ ---- batch: 150 ----
+ ---- batch: 160 ----
+ ---- batch: 170 ----
+ ---- batch: 180 ----
+ ---- batch: 190 ----
+ ---- batch: 200 ----
+ ---- batch: 210 ----
+ ---- batch: 220 ----
+ ---- batch: 230 ----
+ ---- batch: 240 ----
+ ---- batch: 250 ----
+ ---- batch: 260 ----
+ ---- batch: 270 ----
+ ---- batch: 280 ----
+ ---- batch: 290 ----
+ ---- batch: 300 ----
+ ---- batch: 310 ----
+ ---- batch: 320 ----
+ ---- batch: 330 ----
+ ---- batch: 340 ----
+ ---- batch: 350 ----
+ ---- batch: 360 ----
+ ---- batch: 370 ----
+ ---- batch: 380 ----
+ ---- batch: 390 ----
+ ---- batch: 400 ----
+ ---- batch: 410 ----
+ ---- batch: 420 ----
+ ---- batch: 430 ----
+ ---- batch: 440 ----
+ ---- batch: 450 ----
+ ---- batch: 460 ----
+ ---- batch: 470 ----
+ ---- batch: 480 ----
+ ---- batch: 490 ----
+ ---- batch: 500 ----
+eval mean acc: 0.018369
+eval mean loss: 777.195078
+mean IoU:0.5
+IoU: 0.35  0.00  0.02  0.00  0.00  0.00  0.09  0.01  1.71  0.24  2.50  0.15  3.35  0.11  0.11  0.31  0.42  0.36  0.09 
+-> loaded checkpoint D:/project/RandLA-Net2/pretrain_model/checkpoint.tar (epoch: 88)
+-> loaded checkpoint D:/project/RandLA-Net2/pretrain_model/checkpoint.tar (epoch: 88)
+-> loaded checkpoint D:/project/RandLA-Net2/pretrain_model/checkpoint.tar (epoch: 88)
+-> loaded checkpoint D:/project/RandLA-Net2/pretrain_model/checkpoint.tar (epoch: 88)
+-> loaded checkpoint D:/project/RandLA-Net2/pretrain_model/checkpoint.tar (epoch: 88)
+-> loaded checkpoint D:/project/RandLA-Net2/pretrain_model/checkpoint.tar (epoch: 88)
+-> loaded checkpoint D:/project/RandLA-Net2/pretrain_model/checkpoint.tar (epoch: 88)
+-> loaded checkpoint D:/project/RandLA-Net2/pretrain_model/checkpoint.tar (epoch: 88)
+-> loaded checkpoint D:/project/RandLA-Net2/pretrain_model/checkpoint.tar (epoch: 88)
+-> loaded checkpoint D:/project/RandLA-Net2/pretrain_model/checkpoint.tar (epoch: 88)
+-> loaded checkpoint D:/project/RandLA-Net2/pretrain_model/checkpoint.tar (epoch: 88)
+-> loaded checkpoint D:/project/RandLA-Net2/pretrain_model/checkpoint.tar (epoch: 88)
+-> loaded checkpoint D:/project/RandLA-Net2/pretrain_model/checkpoint.tar (epoch: 88)
+-> loaded checkpoint D:/project/RandLA-Net2/pretrain_model/checkpoint.tar (epoch: 88)
+-> loaded checkpoint D:/project/RandLA-Net2/pretrain_model/checkpoint.tar (epoch: 88)
+-> loaded checkpoint D:/project/RandLA-Net2/pretrain_model/checkpoint.tar (epoch: 88)
+-> loaded checkpoint D:/project/RandLA-Net2/pretrain_model/checkpoint.tar (epoch: 88)
+-> loaded checkpoint D:/project/RandLA-Net2/pretrain_model/checkpoint.tar (epoch: 88)
+-> loaded checkpoint D:/project/RandLA-Net2/pretrain_model/checkpoint.tar (epoch: 88)
+-> loaded checkpoint D:/project/RandLA-Net2/pretrain_model/checkpoint.tar (epoch: 88)
+-> loaded checkpoint D:/project/RandLA-Net2/pretrain_model/checkpoint.tar (epoch: 88)
+-> loaded checkpoint D:/project/RandLA-Net2/pretrain_model/checkpoint.tar (epoch: 88)
+-> loaded checkpoint D:/project/RandLA-Net2/pretrain_model/checkpoint.tar (epoch: 88)
+-> loaded checkpoint D:/project/RandLA-Net2/pretrain_model/checkpoint.tar (epoch: 88)
+-> loaded checkpoint D:/project/RandLA-Net2/pretrain_model/checkpoint.tar (epoch: 88)
+-> loaded checkpoint D:/project/RandLA-Net2/pretrain_model/checkpoint.tar (epoch: 88)
+-> loaded checkpoint D:/project/RandLA-Net2/pretrain_model/checkpoint.tar (epoch: 88)
+-> loaded checkpoint D:/project/RandLA-Net2/pretrain_model/checkpoint.tar (epoch: 88)
+-> loaded checkpoint D:/project/RandLA-Net2/pretrain_model/checkpoint.tar (epoch: 88)
+-> loaded checkpoint D:/project/RandLA-Net2/pretrain_model/checkpoint.tar (epoch: 88)
+-> loaded checkpoint D:/project/RandLA-Net2/pretrain_model/checkpoint.tar (epoch: 88)
+-> loaded checkpoint D:/project/RandLA-Net2/pretrain_model/checkpoint.tar (epoch: 88)
+-> loaded checkpoint D:/project/RandLA-Net2/pretrain_model/checkpoint.tar (epoch: 88)
+-> loaded checkpoint D:/project/RandLA-Net2/pretrain_model/checkpoint.tar (epoch: 88)
+-> loaded checkpoint D:/project/RandLA-Net2/pretrain_model/checkpoint.tar (epoch: 88)
+-> loaded checkpoint D:/project/RandLA-Net2/pretrain_model/checkpoint.tar (epoch: 88)
+-> loaded checkpoint D:/project/RandLA-Net2/pretrain_model/checkpoint.tar (epoch: 88)
+-> loaded checkpoint D:/project/RandLA-Net2/pretrain_model/checkpoint.tar (epoch: 88)
+-> loaded checkpoint ./output/checkpoint.tar (epoch: 61)
+-> loaded checkpoint ./output/checkpoint.tar (epoch: 61)
+-> loaded checkpoint ./output/checkpoint.tar (epoch: 61)
+-> loaded checkpoint ./output/checkpoint.tar (epoch: 61)
+-> loaded checkpoint ./output/checkpoint.tar (epoch: 61)
+ ---- batch: 010 ----
+ ---- batch: 020 ----
+ ---- batch: 030 ----
+ ---- batch: 040 ----
+ ---- batch: 050 ----
+ ---- batch: 060 ----
+ ---- batch: 070 ----
+ ---- batch: 080 ----
+ ---- batch: 090 ----
+ ---- batch: 100 ----
+ ---- batch: 110 ----
+ ---- batch: 120 ----
+ ---- batch: 130 ----
+ ---- batch: 140 ----
+ ---- batch: 150 ----
+ ---- batch: 160 ----
+ ---- batch: 170 ----
+ ---- batch: 180 ----
+ ---- batch: 190 ----
+ ---- batch: 200 ----
+ ---- batch: 210 ----
+ ---- batch: 220 ----
+ ---- batch: 230 ----
+ ---- batch: 240 ----
+ ---- batch: 250 ----
+ ---- batch: 260 ----
+ ---- batch: 270 ----
+ ---- batch: 280 ----
+ ---- batch: 290 ----
+ ---- batch: 300 ----
+ ---- batch: 310 ----
+ ---- batch: 320 ----
+ ---- batch: 330 ----
+ ---- batch: 340 ----
+ ---- batch: 350 ----
+ ---- batch: 360 ----
+ ---- batch: 370 ----
+ ---- batch: 380 ----
+ ---- batch: 390 ----
+ ---- batch: 400 ----
+ ---- batch: 410 ----
+ ---- batch: 420 ----
+ ---- batch: 430 ----
+ ---- batch: 440 ----
+ ---- batch: 450 ----
+ ---- batch: 460 ----
+ ---- batch: 470 ----
+ ---- batch: 480 ----
+ ---- batch: 490 ----
+ ---- batch: 500 ----
+ ---- batch: 510 ----
+ ---- batch: 520 ----
+ ---- batch: 530 ----
+ ---- batch: 540 ----
+ ---- batch: 550 ----
+ ---- batch: 560 ----
+ ---- batch: 570 ----
+ ---- batch: 580 ----
+ ---- batch: 590 ----
+ ---- batch: 600 ----
+ ---- batch: 610 ----
+ ---- batch: 620 ----
+ ---- batch: 630 ----
+ ---- batch: 640 ----
+ ---- batch: 650 ----
+ ---- batch: 660 ----
+ ---- batch: 670 ----
+ ---- batch: 680 ----
+ ---- batch: 690 ----
+ ---- batch: 700 ----
+ ---- batch: 710 ----
+ ---- batch: 720 ----
+ ---- batch: 730 ----
+ ---- batch: 740 ----
+ ---- batch: 750 ----
+ ---- batch: 760 ----
+ ---- batch: 770 ----
+ ---- batch: 780 ----
+ ---- batch: 790 ----
+ ---- batch: 800 ----
+ ---- batch: 810 ----
+ ---- batch: 820 ----
+ ---- batch: 830 ----
+ ---- batch: 840 ----
+ ---- batch: 850 ----
+ ---- batch: 860 ----
+ ---- batch: 870 ----
+ ---- batch: 880 ----
+ ---- batch: 890 ----
+ ---- batch: 900 ----
+ ---- batch: 910 ----
+ ---- batch: 920 ----
+ ---- batch: 930 ----
+ ---- batch: 940 ----
+ ---- batch: 950 ----
+ ---- batch: 960 ----
+ ---- batch: 970 ----
+ ---- batch: 980 ----
+ ---- batch: 990 ----
+ ---- batch: 1000 ----
+ ---- batch: 1010 ----
+ ---- batch: 1020 ----
+ ---- batch: 1030 ----
+ ---- batch: 1040 ----
+ ---- batch: 1050 ----
+ ---- batch: 1060 ----
+ ---- batch: 1070 ----
+ ---- batch: 1080 ----
+ ---- batch: 1090 ----
+ ---- batch: 1100 ----
+ ---- batch: 1110 ----
+ ---- batch: 1120 ----
+ ---- batch: 1130 ----
+ ---- batch: 1140 ----
+ ---- batch: 1150 ----
+ ---- batch: 1160 ----
+ ---- batch: 1170 ----
+ ---- batch: 1180 ----
+ ---- batch: 1190 ----
+ ---- batch: 1200 ----
+ ---- batch: 1210 ----
+ ---- batch: 1220 ----
+ ---- batch: 1230 ----
+ ---- batch: 1240 ----
+ ---- batch: 1250 ----
+ ---- batch: 1260 ----
+ ---- batch: 1270 ----
+ ---- batch: 1280 ----
+ ---- batch: 1290 ----
+ ---- batch: 1300 ----
+ ---- batch: 1310 ----
+ ---- batch: 1320 ----
+ ---- batch: 1330 ----
+ ---- batch: 1340 ----
+ ---- batch: 1350 ----
+ ---- batch: 1360 ----
+ ---- batch: 1370 ----
+ ---- batch: 1380 ----
+ ---- batch: 1390 ----
+ ---- batch: 1400 ----
+ ---- batch: 1410 ----
+ ---- batch: 1420 ----
+ ---- batch: 1430 ----
+ ---- batch: 1440 ----
+ ---- batch: 1450 ----
+ ---- batch: 1460 ----
+ ---- batch: 1470 ----
+ ---- batch: 1480 ----
+ ---- batch: 1490 ----
+ ---- batch: 1500 ----
+ ---- batch: 1510 ----
+ ---- batch: 1520 ----
+ ---- batch: 1530 ----
+ ---- batch: 1540 ----
+ ---- batch: 1550 ----
+ ---- batch: 1560 ----
+ ---- batch: 1570 ----
+ ---- batch: 1580 ----
+ ---- batch: 1590 ----
+ ---- batch: 1600 ----
+ ---- batch: 1610 ----
+ ---- batch: 1620 ----
+ ---- batch: 1630 ----
+ ---- batch: 1640 ----
+ ---- batch: 1650 ----
+ ---- batch: 1660 ----
+ ---- batch: 1670 ----
+ ---- batch: 1680 ----
+ ---- batch: 1690 ----
+ ---- batch: 1700 ----
+ ---- batch: 1710 ----
+ ---- batch: 1720 ----
+ ---- batch: 1730 ----
+ ---- batch: 1740 ----
+ ---- batch: 1750 ----
+ ---- batch: 1760 ----
+ ---- batch: 1770 ----
+ ---- batch: 1780 ----
+ ---- batch: 1790 ----
+ ---- batch: 1800 ----
+ ---- batch: 1810 ----
+ ---- batch: 1820 ----
+ ---- batch: 1830 ----
+ ---- batch: 1840 ----
+ ---- batch: 1850 ----
+ ---- batch: 1860 ----
+ ---- batch: 1870 ----
+ ---- batch: 1880 ----
+ ---- batch: 1890 ----
+ ---- batch: 1900 ----
+ ---- batch: 1910 ----
+ ---- batch: 1920 ----
+ ---- batch: 1930 ----
+ ---- batch: 1940 ----
+ ---- batch: 1950 ----
+ ---- batch: 1960 ----
+ ---- batch: 1970 ----
+ ---- batch: 1980 ----
+ ---- batch: 1990 ----
+ ---- batch: 2000 ----
+ ---- batch: 2010 ----
+ ---- batch: 2020 ----
+ ---- batch: 2030 ----
+ ---- batch: 2040 ----
+ ---- batch: 2050 ----
+ ---- batch: 2060 ----
+ ---- batch: 2070 ----
+ ---- batch: 2080 ----
+ ---- batch: 2090 ----
+ ---- batch: 2100 ----
+ ---- batch: 2110 ----
+ ---- batch: 2120 ----
+ ---- batch: 2130 ----
+ ---- batch: 2140 ----
+ ---- batch: 2150 ----
+ ---- batch: 2160 ----
+ ---- batch: 2170 ----
+ ---- batch: 2180 ----
+ ---- batch: 2190 ----
+ ---- batch: 2200 ----
+ ---- batch: 2210 ----
+ ---- batch: 2220 ----
+ ---- batch: 2230 ----
+ ---- batch: 2240 ----
+ ---- batch: 2250 ----
+ ---- batch: 2260 ----
+ ---- batch: 2270 ----
+ ---- batch: 2280 ----
+ ---- batch: 2290 ----
+ ---- batch: 2300 ----
+ ---- batch: 2310 ----
+ ---- batch: 2320 ----
+ ---- batch: 2330 ----
+ ---- batch: 2340 ----
+ ---- batch: 2350 ----
+ ---- batch: 2360 ----
+ ---- batch: 2370 ----
+ ---- batch: 2380 ----
+ ---- batch: 2390 ----
+ ---- batch: 2400 ----
+ ---- batch: 2410 ----
+ ---- batch: 2420 ----
+ ---- batch: 2430 ----
+ ---- batch: 2440 ----
+ ---- batch: 2450 ----
+ ---- batch: 2460 ----
+ ---- batch: 2470 ----
+ ---- batch: 2480 ----
+ ---- batch: 2490 ----
+ ---- batch: 2500 ----
+ ---- batch: 2510 ----
+ ---- batch: 2520 ----
+ ---- batch: 2530 ----
+ ---- batch: 2540 ----
+ ---- batch: 2550 ----
+ ---- batch: 2560 ----
+ ---- batch: 2570 ----
+ ---- batch: 2580 ----
+ ---- batch: 2590 ----
+ ---- batch: 2600 ----
+ ---- batch: 2610 ----
+ ---- batch: 2620 ----
+ ---- batch: 2630 ----
+ ---- batch: 2640 ----
+ ---- batch: 2650 ----
+ ---- batch: 2660 ----
+ ---- batch: 2670 ----
+ ---- batch: 2680 ----
+ ---- batch: 2690 ----
+ ---- batch: 2700 ----
+ ---- batch: 2710 ----
+ ---- batch: 2720 ----
+ ---- batch: 2730 ----
+ ---- batch: 2740 ----
+ ---- batch: 2750 ----
+ ---- batch: 2760 ----
+ ---- batch: 2770 ----
+ ---- batch: 2780 ----
+ ---- batch: 2790 ----
+ ---- batch: 2800 ----
+ ---- batch: 2810 ----
+ ---- batch: 2820 ----
+ ---- batch: 2830 ----
+ ---- batch: 2840 ----
+ ---- batch: 2850 ----
+ ---- batch: 2860 ----
+ ---- batch: 2870 ----
+ ---- batch: 2880 ----
+ ---- batch: 2890 ----
+ ---- batch: 2900 ----
+ ---- batch: 2910 ----
+ ---- batch: 2920 ----
+ ---- batch: 2930 ----
+ ---- batch: 2940 ----
+ ---- batch: 2950 ----
+ ---- batch: 2960 ----
+ ---- batch: 2970 ----
+ ---- batch: 2980 ----
+ ---- batch: 2990 ----
+ ---- batch: 3000 ----
+ ---- batch: 3010 ----
+ ---- batch: 3020 ----
+ ---- batch: 3030 ----
+ ---- batch: 3040 ----
+ ---- batch: 3050 ----
+ ---- batch: 3060 ----
+ ---- batch: 3070 ----
+ ---- batch: 3080 ----
+ ---- batch: 3090 ----
+ ---- batch: 3100 ----
+ ---- batch: 3110 ----
+ ---- batch: 3120 ----
+ ---- batch: 3130 ----
+ ---- batch: 3140 ----
+ ---- batch: 3150 ----
+ ---- batch: 3160 ----
+ ---- batch: 3170 ----
+ ---- batch: 3180 ----
+ ---- batch: 3190 ----
+ ---- batch: 3200 ----
+ ---- batch: 3210 ----
+ ---- batch: 3220 ----
+ ---- batch: 3230 ----
+ ---- batch: 3240 ----
+ ---- batch: 3250 ----
+ ---- batch: 3260 ----
+ ---- batch: 3270 ----
+ ---- batch: 3280 ----
+ ---- batch: 3290 ----
+ ---- batch: 3300 ----
+ ---- batch: 3310 ----
+ ---- batch: 3320 ----
+ ---- batch: 3330 ----
+ ---- batch: 3340 ----
+ ---- batch: 3350 ----
+ ---- batch: 3360 ----
+ ---- batch: 3370 ----
+ ---- batch: 3380 ----
+ ---- batch: 3390 ----
+ ---- batch: 3400 ----
+ ---- batch: 3410 ----
+ ---- batch: 3420 ----
+ ---- batch: 3430 ----
+ ---- batch: 3440 ----
+ ---- batch: 3450 ----
+ ---- batch: 3460 ----
+ ---- batch: 3470 ----
+ ---- batch: 3480 ----
+ ---- batch: 3490 ----
+ ---- batch: 3500 ----
+ ---- batch: 3510 ----
+ ---- batch: 3520 ----
+ ---- batch: 3530 ----
+ ---- batch: 3540 ----
+ ---- batch: 3550 ----
+ ---- batch: 3560 ----
+ ---- batch: 3570 ----
+ ---- batch: 3580 ----
+ ---- batch: 3590 ----
+ ---- batch: 3600 ----
+ ---- batch: 3610 ----
+ ---- batch: 3620 ----
+ ---- batch: 3630 ----
+ ---- batch: 3640 ----
+ ---- batch: 3650 ----
+ ---- batch: 3660 ----
+ ---- batch: 3670 ----
+ ---- batch: 3680 ----
+ ---- batch: 3690 ----
+ ---- batch: 3700 ----
+ ---- batch: 3710 ----
+ ---- batch: 3720 ----
+ ---- batch: 3730 ----
+ ---- batch: 3740 ----
+ ---- batch: 3750 ----
+ ---- batch: 3760 ----
+ ---- batch: 3770 ----
+ ---- batch: 3780 ----
+ ---- batch: 3790 ----
+ ---- batch: 3800 ----
+ ---- batch: 3810 ----
+ ---- batch: 3820 ----
+ ---- batch: 3830 ----
+ ---- batch: 3840 ----
+ ---- batch: 3850 ----
+ ---- batch: 3860 ----
+ ---- batch: 3870 ----
+ ---- batch: 3880 ----
+ ---- batch: 3890 ----
+ ---- batch: 3900 ----
+ ---- batch: 3910 ----
+ ---- batch: 3920 ----
+ ---- batch: 3930 ----
+ ---- batch: 3940 ----
+ ---- batch: 3950 ----
+ ---- batch: 3960 ----
+ ---- batch: 3970 ----
+ ---- batch: 3980 ----
+ ---- batch: 3990 ----
+ ---- batch: 4000 ----
+ ---- batch: 4010 ----
+ ---- batch: 4020 ----
+ ---- batch: 4030 ----
+ ---- batch: 4040 ----
+ ---- batch: 4050 ----
+ ---- batch: 4060 ----
+ ---- batch: 4070 ----
+eval mean acc: 0.006036
+eval mean loss: 200.752227
+mean IoU:0.2
+IoU: 2.27  0.08  0.01  0.00  0.32  0.08  0.09  0.00  0.50  0.00  0.00  0.12  0.01  0.00  0.00  0.08  0.00  0.37  0.03 
+**** EPOCH 000 ****
+2022-08-26 15:49:34.089780
+**** EPOCH 000 ****
+2022-08-26 16:00:52.903508
+**** EPOCH 000 ****
+2022-08-26 17:20:55.555930
+**** EPOCH 000 ****
+2022-08-26 17:23:30.340788
+**** EPOCH 000 ****
+2022-08-26 17:24:31.122960
+**** EPOCH 000 ****
+2022-08-26 17:26:08.656720
+**** EPOCH 000 ****
+2022-08-26 17:28:08.523825
+**** EPOCH 000 ****
+2022-08-26 21:09:49.276823
+**** EPOCH 000 ****
+2022-08-26 21:25:51.632294
+**** EPOCH 000 ****
+2022-08-26 21:26:37.489140
+**** EPOCH 000 ****
+2022-08-26 21:31:40.470186
+**** EPOCH 000 ****
+2022-08-26 21:33:47.168868
+mean IoU:1.0
+IoU: 1.87  0.00  0.00  0.00  0.00  0.00  0.00  0.00  0.77  0.00  8.44  0.00  0.21  0.36  5.10  0.05  2.91  0.12  0.00 
+**** EVAL EPOCH 000 START****
+-> loaded checkpoint ./output/checkpoint.tar (epoch: 61)
+-> loaded checkpoint ./output/checkpoint.tar (epoch: 61)
+-> loaded checkpoint ./output/checkpoint.tar (epoch: 61)
+-> loaded checkpoint ./output/checkpoint.tar (epoch: 61)
+-> loaded checkpoint ./output/checkpoint.tar (epoch: 61)
+-> loaded checkpoint ./output/checkpoint.tar (epoch: 61)
+-> loaded checkpoint ./output/checkpoint.tar (epoch: 61)
+-> loaded checkpoint ./output/checkpoint.tar (epoch: 61)
+-> loaded checkpoint ./output/checkpoint.tar (epoch: 61)
+-> loaded checkpoint ./output/checkpoint.tar (epoch: 61)
+-> loaded checkpoint ./output/checkpoint.tar (epoch: 61)
+-> loaded checkpoint ./output/checkpoint.tar (epoch: 61)
+-> loaded checkpoint ./output/checkpoint.tar (epoch: 61)
+-> loaded checkpoint ./output/checkpoint.tar (epoch: 61)
+-> loaded checkpoint ./output/checkpoint.tar (epoch: 61)
+-> loaded checkpoint ./output/checkpoint.tar (epoch: 61)
+-> loaded checkpoint ./output/checkpoint.tar (epoch: 61)
+-> loaded checkpoint ./output/checkpoint.tar (epoch: 61)
+-> loaded checkpoint ./output/checkpoint.tar (epoch: 61)
+-> loaded checkpoint ./output/checkpoint.tar (epoch: 61)
+-> loaded checkpoint ./output/checkpoint.tar (epoch: 61)
+-> loaded checkpoint ./output/checkpoint.tar (epoch: 61)
+ ---- batch: 010 ----
+ ---- batch: 020 ----
+ ---- batch: 010 ----
+**** EPOCH 000 ****
+2022-09-11 14:30:58.411696
+**** EPOCH 000 ****
+2022-09-11 14:31:27.120086
+**** EPOCH 000 ****
+2022-09-11 14:31:54.396729
+ ---- batch: 010 ----
+mean acc: 0.107615
+mean loss: 23.933195
+ ---- batch: 020 ----
+mean acc: 0.192519
+mean loss: 19.703299
+-> loaded checkpoint ./output/checkpoint.tar (epoch: 0)
+**** EPOCH 000 ****
+2022-09-12 22:43:09.716825
+-> loaded checkpoint ./output/checkpoint.tar (epoch: 0)
+-> loaded checkpoint ./output/checkpoint.tar (epoch: 0)
+-> loaded checkpoint ./output/checkpoint.tar (epoch: 0)
+-> loaded checkpoint ./output/checkpoint.tar (epoch: 0)
+-> loaded checkpoint ./output/checkpoint.tar (epoch: 0)
+-> loaded checkpoint ./output/checkpoint.tar (epoch: 0)
+-> loaded checkpoint ./output/checkpoint.tar (epoch: 0)
+-> loaded checkpoint ./output/checkpoint.tar (epoch: 0)
