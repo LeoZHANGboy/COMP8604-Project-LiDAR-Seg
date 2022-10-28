@@ -23,7 +23,7 @@ RandLA-Net-incre is incremental model, from 15 known classes to all 19 classes t
 To run demo, go with following steps:
 
 1. Do as ./RandLA-Net/README.md required, setting the Python environment, Pytorch 1.8 is used in this work.
-2. In ./RandLA-Net/output directory, there will be two models: checkpoint.tar for LiDAR uni-modal model(original RandLA-Net), checkpoint_lv.tar for transformer LiDAR-Camera model.
+2. In ./RandLA-Net/output directory, there will be two models: checkpoint.tar for LiDAR uni-modal model(original RandLA-Net), checkpoint_lv.tar for transformer LiDAR-Camera model(This is too large for github-upload failed).
     To switch between multi-modal and uni-modal models, simply change require_img at Line 39 of ./RandLA-Net/helper_tool.py.
 3. Demo data is in ./RandLA-Net/demo_data, change the path in ./RandLA-Net/semantickitti_testset.py, to run the demo, run ./RandLA-Net/main_demo.py.
 4. After running demo, the prediction result will be saved, then you can run ./RandLA-Net/plot_3d.py with saved prediction result or ground truth for visualization.
